@@ -1,0 +1,2 @@
+# Required for Gantt chart visualization
+matplotlib==3.9.0
