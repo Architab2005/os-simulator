@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox, ttk
-from os_simulator.data.process import Process
-from os_simulator.logic.scheduler import fcfs, sjf, rr
+from data.process import Process      
+from logic.scheduler import fcfs, sjf, rr  
 
 class App:
     def __init__(self, root):

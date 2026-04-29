@@ -1,5 +1,4 @@
-from os_simulator.data.process import Process
-
+from data.process import Process 
 def fcfs(processes):
     processes.sort(key=lambda x: x.arrival_time)
     current_time = 0

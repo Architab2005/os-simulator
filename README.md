@@ -36,9 +36,9 @@ This file is included to configure the **Pylance** language server in Visual Stu
 
 ## Setup
 
-1. Run the application (from the parent directory):
+1. Run the application :
    ```bash
-   python -m os_simulator.main
+  python main.py
    ```
 
 ## Developed by

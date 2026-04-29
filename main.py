@@ -1,5 +1,10 @@
+import sys
+import os
+# Add current directory to Python path for direct execution
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
 import tkinter as tk
-from os_simulator.gui.app import App
+from gui.app import App  # Now uses relative import
 
 if __name__ == "__main__":
     root = tk.Tk()
