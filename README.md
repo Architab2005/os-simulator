@@ -37,9 +37,9 @@ This file is included to configure the **Pylance** language server in Visual Stu
 ## Setup
 
 1. Run the application :
-   ```bash
-  python main.py
-   ```
+```bash
+       python main.py
+```
 
 ## Developed by
 **Archita B** | B.TECH CSE'26
