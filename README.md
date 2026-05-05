@@ -12,23 +12,23 @@ A Python-based Operating System scheduling algorithm simulator. This project pro
 
 ## Project Structure
 os_simulator\
+├── __init__.py
+├── main.py
+├── .gitignore
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── .vscode\
+│   └── settings.json
+├── data\
+│   ├── __init__.py
+│   └── process.py
+├── logic\
+│   ├── __init__.py
+│   └── scheduler.py
+└── gui\
     ├── __init__.py
-    ├── main.py
-    ├── .gitignore
-    ├── README.md
-    ├── LICENSE
-    ├── requirements.txt
-    ├── .vscode\
-    │   └── settings.json
-    ├── data\
-    │   ├── __init__.py
-    │   └── process.py
-    ├── logic\
-    │   ├── __init__.py
-    │   └── scheduler.py
-    └── gui\
-        ├── __init__.py
-        └── app.py
+    └── app.py
 
 
 ### Why `.vscode/settings.json`?
