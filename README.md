@@ -43,3 +43,6 @@ This file is included to configure the **Pylance** language server in Visual Stu
 
 ## Developed by
 **Archita B** | B.TECH CSE'26
+
+## 📄 License
+This project is licensed under the MIT License.
